@@ -1,5 +1,3 @@
-# retail-prize-optimization-mlops
-
 # Retail Price Optimization - Help them to sell more
 
 In today's competitive retail market, setting the right price for products is crucial. This project focuses on retail price optimization using machine learning techniques to predict customer satisfaction scores. This is a crucial part of developing dynamic pricing strategies, leading to increased sales and customer satisfaction.
